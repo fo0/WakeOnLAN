@@ -2,4 +2,4 @@
 Simple WakeOnLAN
 
 # Usage
-java -jar WakeOnLAN.jar <broadcastIP> <MAC>
+java -jar WakeOnLAN.jar `<broadcastIP>` `<MAC>`
