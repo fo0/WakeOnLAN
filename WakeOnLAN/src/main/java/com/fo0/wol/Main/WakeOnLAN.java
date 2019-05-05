@@ -1,4 +1,4 @@
-package com.example;
+package com.fo0.wol.Main;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
