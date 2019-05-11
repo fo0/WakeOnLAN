@@ -1,4 +1,4 @@
-package com.fo0.wol.Main;
+package com.fo0.wol.main;
 
 import java.util.Arrays;
 

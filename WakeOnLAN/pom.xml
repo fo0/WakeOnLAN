@@ -38,7 +38,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.fo0.wol.Main</mainClass>
+							<mainClass>com.fo0.wol.main.Main</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
